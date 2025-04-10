@@ -1,0 +1,4 @@
+Flask
+markupsafe
+python-dotenv
+google-genai
